@@ -1,62 +1,58 @@
-📊 Business Performance Dashboard (Costco Sales Analysis)
+Here’s a clean, GitHub-ready description you can use in your **README.md** for this dashboard:
 
-This Business Performance Dashboard provides a comprehensive overview of Costco’s sales performance across multiple dimensions, including time, geography, products, and customer segments. It is designed to help stakeholders quickly assess key metrics, identify trends, and compare year-over-year performance.
+---
 
-🔑 Key Features
+## 📊 Business Performance Dashboard (Costco Sales Analysis)
 
-KPI Summary
+This **Business Performance Dashboard** provides a comprehensive overview of Costco’s sales performance across multiple dimensions, including time, geography, products, and customer segments. It is designed to help stakeholders quickly assess key metrics, identify trends, and compare year-over-year performance.
 
-Total Sales, Gross Sales, COGS, and Profit
+### 🔑 Key Features
 
-Year-over-Year (YoY) growth percentages for each KPI
+* **KPI Summary**
 
-Sales Trend Analysis
+  * Total Sales, Gross Sales, COGS, and Profit
+  * Year-over-Year (YoY) growth percentages for each KPI
 
-Monthly sales comparison for 2013 vs 2014
+* **Sales Trend Analysis**
 
-Visual line chart highlighting seasonal patterns and growth trends
+  * Monthly sales comparison for **2013 vs 2014**
+  * Visual line chart highlighting seasonal patterns and growth trends
 
-Product Performance
+* **Product Performance**
 
-Top 3 products in each segment by units sold
+  * Top 3 products in each segment by units sold
+  * Metrics include Gross Sales, Net Sales, and Profit
+  * Highlights profit losses for underperforming enterprise products
 
-Metrics include Gross Sales, Net Sales, and Profit
+* **Geographical Insights**
 
-Highlights profit losses for underperforming enterprise products
+  * Country-wise sales comparison for 2013 and 2014
+  * Clear visualization of market performance across the USA, Canada, France, Germany, and Mexico
 
-Geographical Insights
+* **Interactive Filters**
 
-Country-wise sales comparison for 2013 and 2014
+  * Country
+  * Discount Band
+  * Product
+  * Segment
+    These slicers allow dynamic exploration of data and customized insights.
 
-Clear visualization of market performance across the USA, Canada, France, Germany, and Mexico
+### 🛠 Tools & Technologies
 
-Interactive Filters
+* **Power BI**
+* Data modeling with calculated measures and YoY comparisons
+* Interactive visuals and slicers for enhanced analysis
 
-Country
-
-Discount Band
-
-Product
-
-Segment
-These slicers allow dynamic exploration of data and customized insights.
-
-🛠 Tools & Technologies
-
-Power BI
-
-Data modeling with calculated measures and YoY comparisons
-
-Interactive visuals and slicers for enhanced analysis
-
-🎯 Purpose
+### 🎯 Purpose
 
 This dashboard is ideal for:
 
-Executive performance reviews
+* Executive performance reviews
+* Sales and profitability analysis
+* Identifying high-performing products and regions
+* Supporting data-driven business decisions
 
-Sales and profitability analysis
 
-Identifying high-performing products and regions
 
-Supporting data-driven business decisions
+
+* Write a **project objectives** or **data source** section
